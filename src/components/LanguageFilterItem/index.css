@@ -1,0 +1,24 @@
+.language-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.language-name {
+  color: #1e293b;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-right: 25px;
+  list-style: none;
+}
+
+.selected {
+  color: #0284c7;
+  border: solid 1px #0284c7;
+  border-radius: 15px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
